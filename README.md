@@ -1,7 +1,7 @@
 # Space Battle Game
 
 Welcome to **Space Battle Game**! This is a two-player game where each player controls a spaceship and tries to shoot down the opponent. The game features cool sound effects and smooth controls for an engaging experience.
-
+![Space Battle Game](Assets/shooting.png)
 ## Table of Contents
 
 - [Game Description](#game-description)
