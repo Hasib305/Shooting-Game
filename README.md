@@ -69,4 +69,8 @@ Two players control one spaceship each.
 
 This game was created using the Pygame library. Special thanks to the contributors of Pygame for making such an awesome tool for game development.
 
-   
+## Author
+
+**Hasibul Hasan Hasib**  
+CSE, KUET
+
